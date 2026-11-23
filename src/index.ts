@@ -1,1 +1,1 @@
-import "./ts01types";
+import "./ts02konstrukce";
